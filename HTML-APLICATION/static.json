@@ -2,6 +2,6 @@
   "root": ".",
   "clean_urls": true,
   "routes": {
-    "/**": "indexdemo.html"
+    "/**": "index.php"
   }
 }
