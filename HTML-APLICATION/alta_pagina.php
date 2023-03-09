@@ -52,10 +52,10 @@
     <nav>
 
         <div class="section2">
-            <a class="active" href="alta_pagina.html">Laboratoare</a>
+            <a class="active" href="alta_pagina.php">Laboratoare</a>
         </div>
         <div class="section1">
-            <a class="active" href="index.html">Cursuri</a>
+            <a class="active" href="index.php">Cursuri</a>
         </div>
     </nav>
     <img src="ub.jpg" width="150" height="150" />
